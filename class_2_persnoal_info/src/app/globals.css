@@ -1,0 +1,98 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.About{
+  width: 100%;
+  margin-top: 60px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.first{
+  width: 40%;
+  /* background-color: rgb(42, 104, 52); */
+ 
+}
+
+.myName{
+  font-size: 40px;
+  font-weight: bold;
+  font-family: Arial, Helvetica, sans-serif;
+  word-spacing: 5px;
+  letter-spacing: 5px;
+}
+
+.para{
+  margin-top: 10px;
+  margin-bottom: 30px;
+}
+
+.cv{
+  display: flex;
+  align-items: center;
+  margin-bottom: 100px;
+}
+
+.btn2{
+  background-color: rgb(214, 31, 214);
+  font-weight: bold;
+  padding: 5px;
+  padding-left: 15px;
+  padding-right: 15px;
+  border-radius: 10px;
+  margin-right: 15px;
+}
+
+
+h4{
+  font-size: 20px;
+  font-weight: 600;
+}
+
+.second{
+  width: 30%;
+  /* background-color: blueviolet; */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+.yellow{
+  height: 270px;
+  width: 270px;
+  background-color: yellow;
+  border-radius: 30px;
+  transform: rotateZ(45deg);
+  position: absolute;
+  z-index: 1;
+  margin-top: 80px;
+  margin-right: 15px;
+}
+
+.profile{
+  z-index: 2;
+  margin-bottom: 50px;
+}
+
+.icons{
+  z-index: 2;
+  margin-top: 60px;
+  margin-left: 30px;
+}
+
+
+/* Notes 
+
+         top  right bottom left
+padding: 20px  50px  80px  50px;
+
+
+
+
+
+
+*/
