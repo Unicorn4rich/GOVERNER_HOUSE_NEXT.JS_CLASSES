@@ -22,7 +22,8 @@ export default function Home() {
         <h1 className="sec_heading">Teaching The Next Generation of Smart Contract <span>Developers</span></h1>
 
         <p className="sec_para">Smart contracts are revolutionizing blockchain by enabling secure, automated transactions. They eliminate the need for intermediaries, streamlining processes across industries. As this technology grows, training new developers is key to driving innovation. Preparing the next generation will ensure smart contracts remain at the forefront of decentralized solutions, fostering a robust ecosystem that enhances trust and efficiency in digital transactions.
-        </p>
+       </p>
+
 
         <button className="sec_button"><Link href={"/web3"} >Read Info</Link></button>
       </div>

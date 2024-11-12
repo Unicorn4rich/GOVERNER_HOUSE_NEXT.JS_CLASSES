@@ -3,6 +3,7 @@ import Link from "next/link"
 function Navbar(){
     return(
         <>
+
            <div className="nav_main">
 
             <div className="nav_div1"><h1 className="nav_text">TECH_INFO</h1></div>
@@ -17,6 +18,7 @@ function Navbar(){
            </nav>
 
            </div>
+           
         </>
     )
 }

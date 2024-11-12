@@ -10,7 +10,7 @@ function Web3() {
     <div className='rout_main'>
 
       <div className='rout_div1'>
-        <Image className='rout_img' src={"/web3.webp"} alt="web3" height={100}  width={700} className='h-[440px] w-[600px]'/>
+        <Image className='rout_img' src={"/web3.webp"} alt="web3" height={100}  width={700} className='h-[440px w-[600px]'/>
       </div>
 
       <div className='rout_div2'>

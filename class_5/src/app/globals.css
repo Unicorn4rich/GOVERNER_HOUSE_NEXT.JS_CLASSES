@@ -167,12 +167,12 @@ span{
   align-items: center;
 }
 
-.social h1:hover{
-  color: bisque;
-}
-
 .social h1{
   font-size: 20px;
+}
+
+.social h1:hover{
+  color: bisque;
 }
 
 

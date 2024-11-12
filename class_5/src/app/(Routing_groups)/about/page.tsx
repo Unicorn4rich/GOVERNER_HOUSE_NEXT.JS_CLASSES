@@ -7,13 +7,16 @@ function Web3() {
   return (
     <>
     <Navbar/>
+
     <div className='rout_main'>
 
       <div className='rout_div1'>
         <Image src={"/kamo.png"} alt="web3" height={200}  width={640} className='h-[440px] w-[600px]'/>
       </div>
 
+
       <div className='rout_div2'>
+
       <h1 className='rout_heading'>Governor Kamran Tessori’s Free Web 3.0 Course Initiative for Karachi Residents</h1>
 
         <p className='rout_para'>
